@@ -1,1 +1,4 @@
-やっはー:CAQhHWYbXPAq.
+AuthType Basic
+AuthName "Enter your login ID and password"
+AuthUserFile .htpasswdの場所（パス）
+require valid-user
